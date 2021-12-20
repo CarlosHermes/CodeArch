@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd778222acab33344a704b5ca9c2372d, type: 3}
+  m_Name: WaspMal
+  m_EditorClassIdentifier: 
+  _iddleClip:
+    _FadeDuration: 0.25
+    _Events:
+      _Names: []
+      _NormalizedTimes: []
+      _Callbacks: []
+    _Clip: {fileID: 7400000, guid: 723dd5473b7b2f24b8af6925d89d2bb4, type: 2}
+    _Speed: 1
+    _NormalizedStartTime: NaN
+  _attackClip:
+    _FadeDuration: 0.25
+    _Events:
+      _Names: []
+      _NormalizedTimes: []
+      _Callbacks: []
+    _Clip: {fileID: 7400000, guid: a3cb8d5111c02cd4394bf3cb08d1e0e0, type: 2}
+    _Speed: 1
+    _NormalizedStartTime: NaN
+  _runClip:
+    _FadeDuration: 0.25
+    _Events:
+      _Names: []
+      _NormalizedTimes: []
+      _Callbacks: []
+    _Clip: {fileID: 7400000, guid: 5139cb4afad931242b72725a07696933, type: 2}
+    _Speed: 1
+    _NormalizedStartTime: NaN
+  _dieClip:
+    _FadeDuration: 0.25
+    _Events:
+      _Names: []
+      _NormalizedTimes: []
+      _Callbacks: []
+    _Clip: {fileID: 7400000, guid: 43b5f06ecbae54348b95a10585a8bc8a, type: 2}
+    _Speed: 1
+    _NormalizedStartTime: NaN
+  _additional: []

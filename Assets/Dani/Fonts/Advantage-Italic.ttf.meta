@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8f803e0062669854b92463745d4568c2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Advantage
+  fontNames:
+  - Advantage
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a8cd47e02b60e3246bcfb07fd7140c54, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

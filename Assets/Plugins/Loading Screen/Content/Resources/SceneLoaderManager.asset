@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7decf71d60cb2fe438b4d9a0a160a517, type: 3}
+  m_Name: SceneLoaderManager
+  m_EditorClassIdentifier: 
+  List:
+    array:
+    - SceneName: LoadExample
+      SceneAsset: {fileID: 102900000, guid: 511f544c1ae32b3448425de6b65acff2, type: 3}
+      DisplayName: This Example Name
+      Description: Prompta noluisse verterem sed eu, mundi graece eum in. Vis ut
+        alia euismod tincidunt, per no ubique euismod. Indoctum qualisque vituperata
+        an his. Timeam feugait id mel, vis in iuvaret fabulas. Quis veri diceret
+        vix in, numquam praesent elaboraret eum ne.
+      SkipType: 0
+      LoadingType: 1
+      FakeLoadingTime: 7
+      Backgrounds:
+      - {fileID: 21300000, guid: 2650407d6311724489f3256696e75bb0, type: 3}
+      - {fileID: 21300000, guid: af238b260179c884b93aa3248768f90b, type: 3}
+      - {fileID: 21300000, guid: d693da8ebc165674b9509bab6391e358, type: 3}
+    - SceneName: demo
+      SceneAsset: {fileID: 102900000, guid: c34f5b9761f1c134c9b57f319ee6a287, type: 3}
+      DisplayName: demo
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 2
+      Backgrounds: []
+    - SceneName: GameScene1
+      SceneAsset: {fileID: 102900000, guid: 10077de58c1aed94093ec6f2b2d1e613, type: 3}
+      DisplayName: GameScene1
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 2
+      Backgrounds: []
+    - SceneName: GameScene2
+      SceneAsset: {fileID: 102900000, guid: 3f5ac6c39286a99409012e7097ce3d3b, type: 3}
+      DisplayName: GameScene4
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 2
+      Backgrounds: []
+    - SceneName: GameScene3
+      SceneAsset: {fileID: 102900000, guid: f504d80b368ae954fa99ec1347625130, type: 3}
+      DisplayName: GameScene5
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 2
+      Backgrounds: []
+    - SceneName: Login
+      SceneAsset: {fileID: 102900000, guid: 431abc52731dfba4e8a941cd7047f54f, type: 3}
+      DisplayName: Login
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 2
+      Backgrounds: []
+    - SceneName: Menu
+      SceneAsset: {fileID: 102900000, guid: 4a82a7da8163e51458f6c51cf057892a, type: 3}
+      DisplayName: Menu
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 2
+      Backgrounds: []
+    - SceneName: LoadingScene
+      SceneAsset: {fileID: 102900000, guid: afb0f3b150318754a91519d9da762860, type: 3}
+      DisplayName: LoadingScene
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 2
+      Backgrounds: []
+    - SceneName: TestingScene_Javi
+      SceneAsset: {fileID: 102900000, guid: 03d80f36a2fb49c40b56362e7d70c55f, type: 3}
+      DisplayName: TestingScene_Javi
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 2
+      Backgrounds: []
+  TipList:
+    array:
+    - Create beutifull loading screens for improved your game
+    - Easy to use and implement
+    - remember that have 3 diferent styles for select.
+    - Create how much Tips as you want
+    - Improved the look of your game with awasome backgrounds.
+    - A good background sound increase the motivation of players.
+    - remember that have 3 diferent styles for select.

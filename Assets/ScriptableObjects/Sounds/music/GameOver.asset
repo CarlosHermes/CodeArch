@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 557d29ad9764d4c468f244e68604f0c7, type: 3}
+  m_Name: GameOver
+  m_EditorClassIdentifier: 
+  _music: {fileID: 8300000, guid: d9e1f3197d0110c40b17187c68a5bf97, type: 3}

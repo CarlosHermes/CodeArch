@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9c2e4e8f8694c159fd9162d92a74e1e, type: 3}
+  m_Name: PlayerSaveData
+  m_EditorClassIdentifier: 
+  ingots: {fileID: 11400000, guid: 059dce155da1e6345a8acb3b2da0d987, type: 2}
+  coins: {fileID: 11400000, guid: c5c31b0ae4b36af469561b7873858f40, type: 2}
+  level: {fileID: 11400000, guid: 5461564212a63644b9223e3ed9d0c635, type: 2}
+  firearrow: {fileID: 11400000, guid: 3738abbb11019a24da51543e1b7c5654, type: 2}
+  frozenarrow: {fileID: 11400000, guid: 0050576c04df62045bf6a256d21e1f86, type: 2}
+  poisonarrow: {fileID: 11400000, guid: 01e9b60325eec0340902d739ea014703, type: 2}

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0291533bef307bb46877dab234863368, type: 3}
+  m_Name: Ranking
+  m_EditorClassIdentifier: 
+  _value:
+    numberPlayers: 3
+    users:
+    - position: 1
+      userName: jperez
+      coins: 0
+      ingots: 0
+      level: 1000
+      skillsData:
+        fireArrow: 0
+        frozenArrow: 0
+        poisonArrow: 0
+      created: 2020-11-03T15:20:21.377Z
+      updated: 
+      lastLogged: 
+    - position: 2
+      userName: jsanz
+      coins: 0
+      ingots: 0
+      level: 950
+      skillsData:
+        fireArrow: 0
+        frozenArrow: 0
+        poisonArrow: 0
+      created: 2020-11-03T15:20:21.377Z
+      updated: 
+      lastLogged: 
+    - position: 3
+      userName: mgutierrez
+      coins: 0
+      ingots: 0
+      level: 850
+      skillsData:
+        fireArrow: 0
+        frozenArrow: 0
+        poisonArrow: 0
+      created: 2020-11-03T15:20:21.377Z
+      updated: 
+      lastLogged: 
+  _trackable: 1
+  _uE: {fileID: 11400000, guid: d7d6c74cbd27da647bd638edb14c6ead, type: 2}

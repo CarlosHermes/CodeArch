@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d41c73bb35aeb3f48897ef283010840d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LSW Drachenklaue
+  fontNames:
+  - LSW Drachenklaue
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 01be0718fcf4d6744bbdfc4ff5d9142c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d6b14b1504d45f7a539a516d031f138, type: 3}
+  m_Name: Key
+  m_EditorClassIdentifier: 
+  _itemID: -1273337705
+  _name: Key
+  _icon: {fileID: 21300000, guid: 48a97471e0998194894337b9ed28e882, type: 3}
+  _description: It might open an important gate
+  _price: 0
+  _locked: 0
+  _amount: 0
+  _prefab: {fileID: 5573792818590813511, guid: 19ec8a43d12f1c444b056da42e7d4c72, type: 3}
+  _owned: 0
+  _lootSound: {fileID: 8300000, guid: 40a45b22e4b85ae4e953eb3603dd323e, type: 3}

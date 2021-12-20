@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd778222acab33344a704b5ca9c2372d, type: 3}
+  m_Name: Bat
+  m_EditorClassIdentifier: 
+  _iddleClip:
+    _FadeDuration: 0.25
+    _Events:
+      _Names: []
+      _NormalizedTimes: []
+      _Callbacks: []
+    _Clip: {fileID: 7400000, guid: 0bb874a89ad9d9e4eae15d2c7bceb887, type: 2}
+    _Speed: 1
+    _NormalizedStartTime: NaN
+  _attackClip:
+    _FadeDuration: 0.25
+    _Events:
+      _Names: []
+      _NormalizedTimes: []
+      _Callbacks: []
+    _Clip: {fileID: 7400000, guid: afdb6bdb77e3f0a42867ad8f3e27bd34, type: 2}
+    _Speed: 1
+    _NormalizedStartTime: NaN
+  _runClip:
+    _FadeDuration: 0.25
+    _Events:
+      _Names: []
+      _NormalizedTimes: []
+      _Callbacks: []
+    _Clip: {fileID: 7400000, guid: 9e7cbca2d601f9648a4d962400cf5f2a, type: 2}
+    _Speed: 1
+    _NormalizedStartTime: NaN
+  _dieClip:
+    _FadeDuration: 0.25
+    _Events:
+      _Names: []
+      _NormalizedTimes:
+      - NaN
+      _Callbacks: []
+    _Clip: {fileID: 7400000, guid: e557bd709db4a8c4ea9e0993336a706b, type: 2}
+    _Speed: 1
+    _NormalizedStartTime: NaN
+  _additional:
+  - _FadeDuration: 0
+    _Events:
+      _Names: []
+      _NormalizedTimes: []
+      _Callbacks: []
+    _Clip: {fileID: 7400000, guid: 0bb874a89ad9d9e4eae15d2c7bceb887, type: 2}
+    _Speed: 1
+    _NormalizedStartTime: NaN

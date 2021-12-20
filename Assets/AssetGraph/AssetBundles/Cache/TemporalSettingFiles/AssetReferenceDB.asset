@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee4bc21567f434b598a3c96ba4946372, type: 3}
+  m_Name: AssetReferenceDB
+  m_EditorClassIdentifier: 
+  m_assets:
+  - m_assetDatabaseId: 0423ea154246fb045a9ad564d307473e
+    m_importFrom: Assets/AssetGraph/AssetBundles/Cache/TemporalSettingFiles/AssetReferenceDB.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00000000000000005000000000000000
+    m_importFrom: Library/BuildPlayer.prefs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 691ae360f08ffb94290905494bc46858
+    m_importFrom: Assets/Prefabs/LoadingManager.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7d136fa1652afd643b73c49e7a4caa93
+    m_importFrom: Assets/Prefabs/Arrows.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dd056762c57cf97409dcc837624115ae
+    m_importFrom: Assets/Prefabs/bomb.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a3f0a2a23ce1be244b0991588f57840b
+    m_importFrom: Assets/Prefabs/NoSmokeFire.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8d3b0403a1ea7e94baf1b15be77502ab
+    m_importFrom: Assets/Prefabs/StackManager.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 47c19b259dcc9574dbfd5641f731732b
+    m_importFrom: Assets/Prefabs/door+wall 1.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0fa63f38b55c6ba4e83b0c95892ecfcb
+    m_importFrom: Assets/Prefabs/FireWSmoke.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9d81ac587d3273347b0863d06b9f7bbd
+    m_importFrom: Assets/Prefabs/potion.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 417e3dc854902e842a3b781a8cd78214
+    m_importFrom: Assets/Prefabs/Walls/Wall+Door.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 70eccc293e52d4446b602e302ebb52ef
+    m_importFrom: Assets/Prefabs/Fire 1.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c512a09a7afa7c044a021ec799523c73
+    m_importFrom: Assets/Prefabs/key.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 35ccd8ecbf6f401419f7d5e3d0d6ec79
+    m_importFrom: Assets/Prefabs/gearStick.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ba880a1ea528140418a7fa6536ff4e3c
+    m_importFrom: Assets/Environment Models/Ventuar/MedievalCastlePack/Prefabs/Structures/Houses/WindmillBase.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ff66d45e5400317439132fa7e325b99b
+    m_importFrom: Assets/Prefabs/Fire.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6a6a7c6f1daf8784c9c40f8f123a909b
+    m_importFrom: Assets/Prefabs/ChurchDoorTeleport.prefab
+    m_exportTo: 
+    m_variantName: 
+  m_version: 2

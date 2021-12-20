@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65baa284d24adb24b90b39482364509c, type: 3}
+  m_Name: OpenDoor
+  m_EditorClassIdentifier: 
+  _Transition:
+    _FadeDuration: 0.25
+    _Events:
+      _Names: []
+      _NormalizedTimes:
+      - NaN
+      _Callbacks:
+      - _PersistentCalls:
+        - _Target: {fileID: -8679921383154817045, guid: 7926ae86bd1535f47be1eb94621fd867,
+            type: 3}
+          _MethodName: 
+          _PersistentArguments: []
+    _Clip: {fileID: 7400000, guid: ff61536cf090c584a95d866ac6189f77, type: 2}
+    _Speed: 1
+    _NormalizedStartTime: NaN

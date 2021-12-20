@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91f6cda266274fb47afb11a674b7cf43, type: 3}
+  m_Name: Poison Arrow
+  m_EditorClassIdentifier: 
+  _itemID: -330340116
+  _name: Flecha envenenada
+  _icon: {fileID: 21300000, guid: bf021a2846253b34584da2593aa03a23, type: 3}
+  _description: Flecha envenenada.
+  _price: 1500
+  _locked: 0
+  _amount: 5
+  _prefab: {fileID: 0}
+  _owned: 0
+  _damageData:
+    damage: 0
+    elementalType: 2
+  _sound: {fileID: 0}

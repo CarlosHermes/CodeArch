@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 488751955f1d36f40895d603f69e75cc, type: 3}
+  m_Name: WWWClient
+  m_EditorClassIdentifier: 
+  _url: https://archcoreserver.herokuapp.com/
+  _userLogged: jperez
+  _sRanking: {fileID: 11400000, guid: 38bc8da07e2e6ef48aa1ef643e8003d7, type: 2}
+  saveData: {fileID: 11400000, guid: 779ef851507659146b8ed0171a82f2a6, type: 2}
+  ready: 0

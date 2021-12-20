@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa2469cda26fd5448b9fc0a171ea8c32, type: 3}
+  m_Name: ArrowShot
+  m_EditorClassIdentifier: 
+  _sounds:
+  - {fileID: 8300000, guid: 26ba0ca9f74d3c5438dcff63674a4f30, type: 3}
+  - {fileID: 8300000, guid: 9088ce9a14a94e54f9553762d81e4612, type: 3}
+  - {fileID: 8300000, guid: fa64a3cb7b3fea64cb9a925bf3214178, type: 3}
+  - {fileID: 8300000, guid: 21b350f078ae4a7408df5d973337b3b1, type: 3}
+  - {fileID: 8300000, guid: 2ca55e9e2cb8bc34a8823011fa816770, type: 3}
+  - {fileID: 8300000, guid: 714a37e0e8d32644c98998e7ed6296d1, type: 3}

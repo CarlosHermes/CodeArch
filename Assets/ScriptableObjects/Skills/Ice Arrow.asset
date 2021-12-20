@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91f6cda266274fb47afb11a674b7cf43, type: 3}
+  m_Name: Ice Arrow
+  m_EditorClassIdentifier: 
+  _itemID: -2062176549
+  _name: Flecha de hielo
+  _icon: {fileID: 21300000, guid: 6e60cf68fc7a2a34591aef59c3328326, type: 3}
+  _description: Flecha de hielo.
+  _price: 1000
+  _locked: 0
+  _amount: 15
+  _prefab: {fileID: 0}
+  _owned: 0
+  _damageData:
+    damage: 50
+    elementalType: 3
+  _sound: {fileID: 8300000, guid: 8a97a883f60ab0b4d8bb037971248feb, type: 3}

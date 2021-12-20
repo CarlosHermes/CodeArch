@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa2469cda26fd5448b9fc0a171ea8c32, type: 3}
+  m_Name: FootSteps
+  m_EditorClassIdentifier: 
+  _sounds:
+  - {fileID: 8300000, guid: d9b3ea8e19c95374683af55807efb114, type: 3}
+  - {fileID: 8300000, guid: 83b00d96f04c0ef41a8ff111f1ed8af0, type: 3}
+  - {fileID: 8300000, guid: 6980737344164bc46904a4230a994d37, type: 3}
+  - {fileID: 8300000, guid: 4200268d1599c6949ae13d2721bc00c0, type: 3}
+  - {fileID: 8300000, guid: 6bd30bd73b2657a48ab04190cc5a170a, type: 3}
+  - {fileID: 8300000, guid: 4613622a02341d74f971ff9e9631018e, type: 3}
+  - {fileID: 8300000, guid: f41021cb4ef46f94f85930c0a63972c9, type: 3}
+  - {fileID: 8300000, guid: b5e693c5494b6c8498238e2b3b0ab8b6, type: 3}
+  - {fileID: 8300000, guid: a8764071ae3be904fbf6cc68f9043dc6, type: 3}
+  - {fileID: 8300000, guid: 3c7f7ebcfacab5446b3aaa5932f91d4b, type: 3}
